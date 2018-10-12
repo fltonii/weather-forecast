@@ -7,5 +7,4 @@ export function WeatherDataReducer(state = [], action){
   default:
     return state;
   }
-  
 }
